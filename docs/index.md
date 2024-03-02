@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "张茂龙龙的个人站"
+  name: "张茂龙的个人站"
   text: "记录进步"
   tagline: Track Progress
   image:
