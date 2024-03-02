@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "张茂龙龙的个人站"
+  text: "记录进步"
+  tagline: Track Progress
+  image:
+    src: ./.vitepress/public/assets/icon/background.png
+    alt: 主页背景图
   actions:
     - theme: brand
       text: Markdown Examples

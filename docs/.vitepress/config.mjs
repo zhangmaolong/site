@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/site/",
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "张茂龙的个人站",
+  description: "记录进步",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
