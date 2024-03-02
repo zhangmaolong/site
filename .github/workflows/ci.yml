@@ -28,10 +28,10 @@ jobs:
         run: |
           pnpm install
           pnpm build
-          cd .vitepress/dist
+          cd ./docs/.vitepress/dist
           touch README.md .nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: .docs/.vitepress/dist
+          folder: ./docs/.vitepress/dist
           clean: true
