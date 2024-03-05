@@ -7,7 +7,7 @@ hero:
   text: "记录进步"
   tagline: Track Progress
   image:
-    src: ./.vitepress/public/assets/icon/background.png
+    src: /assets/icon/background.png
     alt: 主页背景图
   actions:
     - theme: brand
